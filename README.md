@@ -14,7 +14,7 @@ Khi làm việc với một repository trên Github, bạn cần lấy về máy
 <img src="http://i.imgur.com/thJCRy2.png">
 
 Có 2 phần chính
-- Phần 1 : Thanh quá trình thể hiện trực quan các nhánh phát triển và các lần `push`. 
+- Phần 1 : Thanh quá trình thể hiện trực quan các nhánh phát triển và các lần `commit`. 
 - Phần 2 : Tab `Changes` là những sự thay đổi so với bản trước và mục Commit
 		 Tab `History` là thông kê lại những lần commit trước đó.
 
